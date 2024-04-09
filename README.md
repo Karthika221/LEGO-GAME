@@ -1,6 +1,8 @@
 # LEGO-GAME
 User Story: Web Interactive game
+
 Objective: As a player, I play this 3D game by creating designs using LEGO bricks for relaxation, embrace the joy of play, and imagination while engaging in collaborative play or individual challenges
+
 Scenario: LEGO bricks, a web interactive game.
 1. Starting the game:
 	1. Once the user visited the website, it directly takes the user to the game page.
