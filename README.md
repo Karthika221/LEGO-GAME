@@ -11,7 +11,8 @@ Scenario: LEGO bricks, a web interactive game.
 	2. To get another lego brick of same color, user can double click the button of the color and can drag the brick that already exists.
 	3. User can place the bricks one over another or as required.
 	4. If any doubt, user can clear it by clicking the help present on the screen.
-3. Savin History:
+3. Saving History:
  	User can save the current progress of the game by clicking the save button. So that the user can continue the game at any time.
+
 Acceptance Criteria:
 	User can start the game by clicking the start button. They can get the bricks by clicking the button on top left corner. User can palce only the same color bricks on top of one another. They can double click the button to get a new block as per their requirement and can drag the block. They can save the game by clicking the save button and can continue it at any time.
